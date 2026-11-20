@@ -1,0 +1,6 @@
+{
+  "name": "Julia Photo Quest",
+  "description": "Plataforma gamificada estilo trilha para aprender fotografia na prática com câmera compacta Acrensly 8K, tutor IA multimodal e galeria de conquistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
